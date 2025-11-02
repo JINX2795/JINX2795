@@ -1,6 +1,6 @@
 <!-- Minimal Epic GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Vedant Mathur</h1>
+<h1 align="center">Hi 👋, I'm JINX</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F720&center=true&vCenter=true&width=600&lines=Pre-Final+Year+IT+Student+%F0%9F%93%9A;Cybersecurity+Enthusiast+%F0%9F%94%90;Web+Developer+%E2%9A%A1;OSINT+Explorer+%F0%9F%95%B5%EF%B8%8F;Always+learning+new+stuff+%F0%9F%92%AB" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  📚 Pre-final year IT student at MIT &nbsp; | &nbsp; 🔐 Cybersecurity & OSINT Enthusiast &nbsp; | &nbsp; 🌐 Web Developer &nbsp; | &nbsp; 📊 Data + AI Explorer
+  📚 Pre-final year IT student at MIT &nbsp; | &nbsp; 🔐 Cybersecurity Enthusiast &nbsp; | &nbsp; 🌐 Web Developer &nbsp; | &nbsp; 📊 Data + AI Explorer
 </p>
 
 <p align="center">
