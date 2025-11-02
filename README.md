@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/144263080?s=400&u=9f9f1f21bfcb374ede3adfbea8f1adfe0ba851f6&v=4" alt="Profile" width="50" style="border-radius:50px; vertical-align:middle;">
-  <img src="https://komarev.com/ghpvc/?username=Vedant-Mathur&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" style="vertical-align:middle; margin-left:8px;">
+  <img src="https://komarev.com/ghpvc/?username=JINX2795&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" style="vertical-align:middle; margin-left:8px;">
 </p>
 
 <p align="center">
@@ -16,12 +16,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Mathur&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Mathur&theme=tokyonight" alt="GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JINX2795&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JINX2795&theme=tokyonight" alt="GitHub streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant-Mathur&theme=tokyo-night&hide_border=true" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JINX2795&theme=tokyo-night&hide_border=true" alt="Activity graph"/>
 </p>
 
 <p align="center">
@@ -53,5 +53,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vedant-Mathur/Vedant-Mathur/main/output/snake.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/JINX2795/JINX2795/main/output/snake.svg" alt="Contribution Snake"/>
 </p>
