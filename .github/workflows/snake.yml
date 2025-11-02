@@ -17,7 +17,7 @@ jobs:
       - name: Generate snake
         uses: isitreallyalive/snkgen@v3.3.0
         with:
-          github_user_name: Vedant-Mathur
+          github_user_name: JINX2795
           outputs: |
             snake.svg?palette=github-dark&color_snake=00FF00&color_dots=#1b1f23,#0e4429,#006d32,#26a641,#39d353
 
