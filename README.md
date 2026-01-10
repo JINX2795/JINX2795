@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  📚 Pre-final year IT student at MIT &nbsp; | &nbsp; 🔐 Cybersecurity Enthusiast &nbsp; | &nbsp; 🌐 Web Developer &nbsp; | &nbsp; 📊 Data + AI Explorer
+  Pre-final year IT student at MIT &nbsp; • &nbsp; Cybersecurity &nbsp; • &nbsp; Web &nbsp; • &nbsp; Data and AI
 </p>
 
 <p align="center">
