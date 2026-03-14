@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JINX2795&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.vercel.app/?user=JINX2795&theme=tokyonight" alt="GitHub streak" height="165"/>
+  <!-- <img src="https://github-readme-streak-stats.vercel.app/?user=JINX2795&theme=tokyonight" alt="GitHub streak" height="165"/> -->
 </p>
 
 <p align="center">
